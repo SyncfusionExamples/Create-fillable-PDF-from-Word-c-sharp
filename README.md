@@ -4,11 +4,12 @@ This repository contains examples that illustrates how to convert Word document 
 
 ## Key Features
 
-When creating a Word template for converting into a fillable PDF, you can include:
+When designing a Word template for conversion into a fillable PDF, you can include various form elements to enhance usability:
+
 -	Checkboxes: Ideal for multiple-choice options or selecting preferences.
 -	Dropdowns: Suitable for providing a list of predefined choices, such as country selection.
 -	Text Fields: Useful for capturing user input like names, addresses, or comments.
-By combining these elements, you can design a template and convert into fillable PDF.
+These elements make it easy to design clear and user-friendly Word templates that can be quickly converted into fillable PDFs.
 
 <p align="center"> 
 <img src="Images/Fillable-PDF.png" alt="Fillable PDF in C#"/> 

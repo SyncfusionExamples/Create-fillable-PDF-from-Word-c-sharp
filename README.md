@@ -9,6 +9,7 @@ When designing a Word template for conversion into a fillable PDF, you can inclu
 -	Checkboxes: Ideal for multiple-choice options or selecting preferences.
 -	Dropdowns: Suitable for providing a list of predefined choices, such as country selection.
 -	Text Fields: Useful for capturing user input like names, addresses, or comments.
+
 These elements make it easy to design clear and user-friendly Word templates that can be quickly converted into fillable PDFs.
 
 <p align="center"> 

@@ -4,13 +4,7 @@ This repository contains examples that illustrates how to convert Word document 
 
 ## Key Features
 
-When designing a Word template for conversion into a fillable PDF, you can include various form elements to enhance usability:
-
--	Checkboxes: Ideal for multiple-choice options or selecting preferences.
--	Dropdowns: Suitable for providing a list of predefined choices, such as country selection.
--	Text Fields: Useful for capturing user input like names, addresses, or comments.
-
-These elements make it easy to design clear and user-friendly Word templates that can be quickly converted into fillable PDFs.
+[Create fillable PDF from Word document](https://github.com/SyncfusionExamples/Create-fillable-PDF-from-Word-c-sharp/tree/master/Create-fillable-PDF) - Convert Word documents with form fields into fillable PDFs while preserving the form fields as editable 
 
 <p align="center"> 
 <img src="Images/Fillable-PDF.png" alt="Fillable PDF in C#"/> 
@@ -46,10 +40,10 @@ Supported File Formats
 
 ## Resources
 
-- **Product page:** [Syncfusion&reg; Word Framework](https://www.syncfusion.com/document-processing/word-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **Documentation:** [Create a fillable PDF from a Word Document Syncfusion&reg; Word library](https://help.syncfusion.com/document-processing/word/conversions/word-to-pdf/net/word-to-pdf-settings#word-document-form-field-to-pdf-form-field)
-- **GitHub Examples:** [Syncfusion&reg; Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **Online demo:** [Syncfusion&reg; Word library - Online demos](https://ej2aspnetcore.azurewebsites.net/aspnetcore/word/splitbysection#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **Product page:** [Syncfusion&reg; Word Framework](https://www.syncfusion.com/document-processing/word-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) 
+- **Documentation:** [Protect and unprotect Word document using Syncfusion&reg; Word library](https://help.syncfusion.com/document-processing/word/word-library/net/working-with-security) 
+- **GitHub Examples:** [Syncfusion&reg; Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) 
+- **Online demo:** [Syncfusion&reg; Word library - Online demos](https://ej2aspnetcore.azurewebsites.net/aspnetcore/word/wordtopdf#/material3) 
 
 ## Support and feedback
 For any other queries, reach our [Syncfusion&reg; support team](https://support.syncfusion.com/?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
